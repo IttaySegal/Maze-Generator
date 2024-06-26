@@ -1,6 +1,6 @@
 # Maze Generator
 
-A Python-based maze generator that creates random mazes using various algorithms. This project demonstrates fundamental concepts of algorithm design and implementation, specifically focusing on maze generation techniques.
+A Java-based maze generator that creates random mazes using various algorithms. This project demonstrates fundamental concepts of algorithm design and implementation, specifically focusing on maze generation techniques.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -9,7 +9,7 @@ A Python-based maze generator that creates random mazes using various algorithms
 
 ## Overview
 
-The Maze Generator project is a Python application that generates random mazes using different algorithms. It is a great tool for learning about algorithmic concepts and the intricacies of maze generation. The project is simple yet provides a wide range of functionalities and customizations.
+The Maze Generator project is a JavaFX application that generates random mazes using different algorithms. It is a great tool for learning about algorithmic concepts and the intricacies of maze generation. The project is simple yet provides a wide range of functionalities and customizations.
 
 ## Features
 
