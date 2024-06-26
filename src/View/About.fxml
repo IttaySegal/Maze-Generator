@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+      <VBox layoutX="34.0" layoutY="30.0" prefHeight="249.0" prefWidth="380.0">
+         <children>
+              <Label fx:id="lbl" text="Ash and Pikachu" />
+             <Label />
+              <Label text="For Generate the Maze, we use 3 algorithms" />
+              <Label text="-Easy with Empty Algorithm" />
+             <Label text="-Medium with Simple Algorithm" />
+              <Label text="-Hard with MyMaze(Prim) Algorithm" />
+             <Label />
+              <Label text="For Solving the Maze, we use Best First Algorithm" />
+         </children>
+      </VBox>
+    </children>
+</AnchorPane>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1-internal" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+      <VBox layoutX="14.0" layoutY="14.0" prefHeight="204.0" prefWidth="413.0">
+         <children>
+             <Label fx:id="lbl" text="Welcome to the Maze"/>
+             <Label/>
+              <Label text="You can choose between two players," />
+              <Label text="Ash trying to get to caterpie or brook trying to get to nurse joy?." />
+              <Label/>
+              <Label text="To move in the maze, use NumPad" />
+              <Label text="-Press 1- Diagonal Down-Left" />
+              <Label text="-Press 2- Move Down" />
+              <Label text="-Press 3- Diagonal Down-Right" />
+              <Label text="-Press 4- Move Left" />
+              <Label text="-Press 6- Move Right" />
+              <Label text="-Press 7- Diagonal Up-Left" />
+              <Label text="-Press 8- Move Up" />
+              <Label text="-Press 9- Diagonal Up-Left" />
+            <Label />
+         </children>
+      </VBox>
+    </children>
+</AnchorPane>

@@ -1,0 +1,14 @@
+.root{
+    -fx-background-color: GAINSBORO;
+}
+Label{
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+}
+#lbl{
+    -fx-font-size: 18px;
+    -fx-text-fill: black;
+    -fx-font-family: "Arial Narrow";
+    -fx-fill: #818181;
+    -fx-effect: innershadow( gaussian, rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}

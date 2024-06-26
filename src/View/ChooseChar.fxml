@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" stylesheets="View.css" xmlns="http://javafx.com/javafx/20.0.1-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.ChooseController">
+   <children>
+      <ImageView fx:id="Char1" fitHeight="135.0" fitWidth="179.0" layoutX="53.0" layoutY="109.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fx:id="Char2" fitHeight="135.0" fitWidth="179.0" layoutX="239.0" layoutY="110.0" pickOnBounds="true" preserveRatio="true" />
+      <Label fx:id="lbl_char" layoutX="129.0" layoutY="62.0" prefHeight="59.0" prefWidth="171.0" text=" wish to play with?" />
+      <Button fx:id="Brook" layoutX="289.0" layoutY="261.0" mnemonicParsing="false" onAction="#PlayBrook" text="Brook" />
+      <Button fx:id="Ash" layoutX="99.0" layoutY="262.0" mnemonicParsing="false" onAction="#PlayAsh" text="Ash" />
+      <Label fx:id="lbl_char1" layoutX="109.0" layoutY="45.0" prefHeight="17.0" prefWidth="242.0" text="Which Character you" />
+   </children>
+</AnchorPane>
